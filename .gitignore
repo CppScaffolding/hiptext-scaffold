@@ -1,0 +1,4 @@
+## .gitignore file for hiptext-scaffold
+
+## ignore folder fetched through gclient
+hiptext
